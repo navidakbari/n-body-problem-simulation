@@ -1,1 +1,5 @@
-n-body problem simulation
+# n-body problem simulation
+In this project I simulate the solar system using n-body problem and you can extend it how much you can.
+
+## how it works?
+For running the project clone or download the project source code and open it in Matlab program and run the **n_body.m** file.
